@@ -1,0 +1,10 @@
+* Stealth-mixin
+
+Common Lisp library for creating stealth mixin classes
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/robert-strandh/Stealth-mixin.git   |
+| commit  | 2f853fc  |
+| systems | Stealth-mixin |
+|---------+-------------------------------------------|
+
