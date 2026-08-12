@@ -7,4 +7,4 @@ Common Lisp library for creating stealth mixin classes
 | commit  | 2f853fc                                                 |
 | systems | stealth-mixin                                           |
 |---------+---------------------------------------------------------|
- 
+  
